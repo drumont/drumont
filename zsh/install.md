@@ -31,10 +31,15 @@ Configuration of ~/.zshrc
 
 ```
  plugins=(
-  git
-  zsh-autosuggestions
-  zsh-syntax-highlighting
-  fast-syntax-highlighting
-  zsh-autocomplete
+    git
+    bundler
+    dotenv
+    zsh-autosuggestions
+    zsh-autocomplete
+    last-working-dir
+    history
+    sudo
+    docker
+    kubectl
  )
  ```
